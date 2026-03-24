@@ -1,4 +1,4 @@
-#Hi, I'm Joseph
+#Hi, I'm Joseph Wachira Wambutu
 # 💫 About Me:
 Security and Threat Intelligence Analyst at Co-operative Bank<br>I monitor cybersecurity threats and curate solutions to address risks affecting the financial services<br>
 
